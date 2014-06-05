@@ -1,0 +1,12 @@
+{
+  "name": "FlexSlider-Scss",
+  "version": "1.0.0",
+  "main": "",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jQuery": ">=1.4.2"
+  }
+}
