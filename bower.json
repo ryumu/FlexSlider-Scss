@@ -1,7 +1,7 @@
 {
   "name": "FlexSlider-Scss",
   "version": "1.0.0",
-  "main": "",
+  "main": "jquery.flexslider.js",
   "ignore": [
     ".jshintrc",
     "**/*.txt"
